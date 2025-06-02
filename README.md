@@ -1,4 +1,4 @@
-# Hi! My I'm Marvine
+# Hi! I'm Marvine
 Unstoppable dreamer
 
 I'm 17 years old and currently studying at Ettore Majorana Institute in Grugliasco.
