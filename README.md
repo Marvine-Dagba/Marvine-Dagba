@@ -1,4 +1,4 @@
-Marvine Dagba - student at "Istituto Tecnico Ettore Majorna" , wannabe developer, unstoppable dreamer 
+# Marvine Dagba - student at "Istituto Tecnico Ettore Majorna" , wannabe developer, unstoppable dreamer 
 
 
 ## Certificates 
