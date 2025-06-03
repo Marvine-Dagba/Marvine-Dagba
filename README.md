@@ -1,4 +1,4 @@
-# Hi! I'm @Marvine-Dagba currently studying  at "Istituto Tecnico Ettore Majorna" in computer science address and i am an unstoppable dreamer 
+Marvine Dagba - student at "Istituto Tecnico Ettore Majorna" , wannabe developer, unstoppable dreamer 
 
 
 ## Certificates 
