@@ -1,24 +1,24 @@
-# Hi! I'm Marvine
-Unstoppable dreamer
+# Hi! I'm Marvine currently studying  at "Istituto Tecnico Ettore Majorna" in computer science address Unstoppable dreamer 
 
-I'm 17 years old and currently studying at Ettore Majorana Institute in Grugliasco.
+
+## Certificates
 I hold a middle school diploma, a Cisco certification, and a B1 level English certificate (Trinity exam).
 
 ### 📚 Current Education
 I'm in my third year of studying computer science, where I'm developing both technical knowledge and practical programming skills.
 
 ### 💻  Skills
-C#
+- C#
 
-HTML
+- HTML
 
-JavaScript
+- JavaScript
 
-C
+- C
 
-Arduino
+- Arduino
 
-### 🎧❤️  Someyhing personal
+### 🎧❤️  Something personal
 In my free time, I enjoy listening to music and dancing.
 
 ### 🎯  Goal
