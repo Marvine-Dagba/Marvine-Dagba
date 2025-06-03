@@ -1,7 +1,7 @@
 # Hi! I'm @Marvine-Dagba currently studying  at "Istituto Tecnico Ettore Majorna" in computer science address and i am an unstoppable dreamer 
 
 
-## Certificates
+## Certificates 
 I hold a middle school diploma, a Cisco certification, and a B1 level English certificate (Trinity exam).
 
 ### 📚 Current Education
